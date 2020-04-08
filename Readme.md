@@ -37,7 +37,9 @@ So I captured the some source code and let it execute automatically.
 </table>
 </escape>
 
-### Input/Output
+![](https://img.shields.io/badge/Matlab-R2018a%20Update2-orange) ![](https://img.shields.io/badge/eeglab%20toolbox-14.1.2.0-green) ![](https://img.shields.io/badge/ADJUST-1.1.1-blue)
+
+## Input/Output
 Input :
 * eeg raw data:
   > Column : Channel(A1、A2、Fp1、Fp2...)
@@ -47,10 +49,10 @@ Input :
 Output :
 * Processed .edf file and .mat file
 
-### Processt
-data.mat -> eeglab_AutoRun.m -> Run ICA -> Run ADJUST -> Manual confirmation and reject -> time -> Result
+## Processt
+data.mat ▶ eeglab_AutoRun.m ▶ Run ICA ▶ Run ADJUST ▶ Manual confirmation and reject ▶ time.m ▶ Result
 
-### Some detail of the source code
+## Some detail of the source code
 * I used 18 electrode channels as input.
 * Hertz is 256.
 * Channel information is written in *Inf18.ced* file.
