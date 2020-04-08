@@ -36,3 +36,22 @@ So I captured the some source code and let it execute automatically.
   </tr>
 </table>
 </escape>
+
+### Input/Output
+Input :
+* eeg raw data:
+  > Column : Channel(A1、A2、Fp1、Fp2...)
+  
+  > Row : Value of time series
+  
+Output :
+* Processed .edf file and .mat file
+
+### Processt
+data.mat -> eeglab_AutoRun.m -> Run ICA -> Run ADJUST -> Manual confirmation and reject -> time -> Result
+
+### Some detail of the source code
+* I used 18 electrode channels as input.
+* Hertz is 256.
+* Channel information is written in *Inf18.ced* file.
+* Output file name can change in *time.m*.
