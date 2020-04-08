@@ -34,10 +34,15 @@ So I captured the some source code and let it execute automatically.
     <td>1.1.1</td>
     <td><a href="https://www.nitrc.org/projects/adjust/)" target="_blank" title="ADJUST">Here</a></td>
   </tr>
+  <tr>
+    <td>Biosig</td>
+    <td>3.3.0</td>
+    <td><a href="https://sccn.ucsd.edu/wiki/EEGLAB_Plugins)" target="_blank" title="Biosig">Here</a></td>
+  </tr>
 </table>
 </escape>
 
-![](https://img.shields.io/badge/Matlab-R2018a%20Update2-orange) ![](https://img.shields.io/badge/eeglab%20toolbox-14.1.2.0-green) ![](https://img.shields.io/badge/ADJUST-1.1.1-blue) 
+![](https://img.shields.io/badge/Matlab-R2018a%20Update2-orange) ![](https://img.shields.io/badge/eeglab%20toolbox-14.1.2.0-green) ![](https://img.shields.io/badge/ADJUST-1.1.1-blue) ![](https://img.shields.io/badge/Biosig-3.3.0-yellow)
 
 ## Input/Output
 Input :
