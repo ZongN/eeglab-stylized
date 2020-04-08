@@ -44,6 +44,7 @@ Input :
 * eeg raw data:
   - Column : Channel (A1、A2、Fp1、Fp2...)
   - Row : Value of time series
+
 Output :
 * Processed .edf file and .mat file
 
