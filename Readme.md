@@ -57,3 +57,6 @@ data.mat ▶ eeglab_AutoRun.m ▶ Run ICA ▶ Run ADJUST ▶ Manual confirmation
 * Hertz is 256.
 * Channel information is written in *Inf18.ced* file.
 * Output file name can change in *time.m*.
+
+
+If you are the author and you think this sharing is not suitable, please contact me. Thank you !
