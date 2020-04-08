@@ -8,7 +8,7 @@ It has a perfect UI interface for people to use, but I often need to deal with a
 
 So I captured the some source code and let it execute automatically.
 
-*If you are the author and you think this sharing is not suitable, please contact me. Thank you !
+*If you are the author and you think this sharing is not suitable, please contact me. Thank you !*
 
 ## Environment
 <escape>
