@@ -42,9 +42,8 @@ So I captured the some source code and let it execute automatically.
 ## Input/Output
 Input :
 * eeg raw data:
-  > Column : Channel(A1、A2、Fp1、Fp2...)
-  
-  > Row : Value of time series
+  - Column : Channel(A1、A2、Fp1、Fp2...)
+  - Row : Value of time series
   
 Output :
 * Processed .edf file and .mat file
