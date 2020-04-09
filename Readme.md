@@ -29,17 +29,17 @@ So I captured the some source code and let it execute automatically.
   <tr>
     <td>eeglab toolbox</td>
     <td>14.1.2.0 </td>
-    <td><a href="https://sccn.ucsd.edu/eeglab/download.php)" target="_blank" title="eeglab toolbox">Here</a></td>
+    <td><a href="https://sccn.ucsd.edu/eeglab/index.php" target="_blank" title="eeglab toolbox">Here</a></td>
   </tr>
   <tr>
     <td>ADJUST</td>
     <td>1.1.1</td>
-    <td><a href="https://www.nitrc.org/projects/adjust/)" target="_blank" title="ADJUST">Here</a></td>
+    <td><a href="https://www.nitrc.org/projects/adjust/" target="_blank" title="ADJUST">Here</a></td>
   </tr>
   <tr>
     <td>Biosig</td>
     <td>3.3.0</td>
-    <td><a href="https://sccn.ucsd.edu/wiki/EEGLAB_Plugins)" target="_blank" title="Biosig">Here</a></td>
+    <td><a href="https://sccn.ucsd.edu/wiki/EEGLAB_Plugins" target="_blank" title="Biosig">Here</a></td>
   </tr>
 </table>
 </escape>
