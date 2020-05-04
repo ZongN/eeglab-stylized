@@ -55,7 +55,7 @@ Input :
 Output :
 * Processed .edf file and .mat file
 
-## Processt
+## Process
 data.mat ▶ New_SaveData_as_mat_monopole.m ▶ Run ICA ▶ Run ADJUST ▶
 
 Manual confirmation and reject ▶ time.m ▶ Result
