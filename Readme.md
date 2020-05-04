@@ -56,7 +56,7 @@ Output :
 * Processed .edf file and .mat file
 
 ## Processt
-data.mat ▶ eeglab_AutoRun.m ▶ Run ICA ▶ Run ADJUST ▶ Manual confirmation and reject ▶ time.m ▶ Result
+data.mat ▶ New_SaveData_as_mat_monopole.m ▶ Run ICA ▶ Run ADJUST ▶ Manual confirmation and reject ▶ time.m ▶ Result
 
 ## Some detail of the source code
 * I used 18 electrode channels as input.
